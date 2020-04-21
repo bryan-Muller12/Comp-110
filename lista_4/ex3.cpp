@@ -1,4 +1,4 @@
-\\Exercício 3
+//Exercício 3
 
 #include <stdio.h>
 
